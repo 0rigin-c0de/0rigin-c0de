@@ -1,8 +1,9 @@
-<h1 text-align=centre><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Sunil</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Sunil</h1>
 
 
+[![](https://visitcount.itsvg.in/api?id=0rigin-c0de&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+- 🌱 I’m currently learning Front-End Development
 
 
 ## 🌐 Socials:
@@ -16,4 +17,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0rigin-c0de&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=0rigin-c0de&icon=0&color=0)](https://visitcount.itsvg.in)
+
