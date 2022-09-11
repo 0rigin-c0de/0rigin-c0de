@@ -3,7 +3,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=0rigin-c0de&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently learning Front-End Development
+
+<h2>🌱 I’m currently learning Front-End Development</h2>
 
 
 ## 🌐 Socials:
