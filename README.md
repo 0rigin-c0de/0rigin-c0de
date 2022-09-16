@@ -1,6 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Sunil</h1>
 
-
 [![](https://visitcount.itsvg.in/api?id=0rigin-c0de&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
