@@ -1,4 +1,4 @@
-<h1 align = "left">Hey I'm Sunil </h1>
+<h1 align = "left">Hey 👋 I'm Sunil </h1>
 
 <h2>I'm Currently learning JavaScript</h2>
 
