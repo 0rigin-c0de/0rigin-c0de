@@ -2,11 +2,5 @@
 
 <h2>I’m a  frontend developer with experience in building websites for small and medium sized businesses. Whether you’re trying to win work, list your services or even create a whole online store – I can help!</h2>
 
-## Social
-[<img https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white >](https://www.instagram.com/sunil.herez/)  
-[<img https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white >](https://twitter.com/@Cook_C0de)
-[<img https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white >](https://codepen.io/@origin-code)  
-
-
 ## Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
