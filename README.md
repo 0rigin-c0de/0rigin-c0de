@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=9B27F7&center=true&multiline=true&width=435&height=110&lines=Hey+%F0%9F%91%8B+I'm+Sunil+;I'm+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=9B27F7&center=true&multiline=true&width=435&height=90&lines=Hey+%F0%9F%91%8B+I'm+Sunil+;I'm+Frontend+Developer)](https://git.io/typing-svg)
 
 <h3>I’m a  frontend developer with experience in building websites for small and medium sized businesses. Whether you’re trying to win work, list your services or even create a whole online store – I can help!</h3>
 
