@@ -4,7 +4,7 @@
 * 💬 **Ask me about:** Frontend Web Development, Open Source.
 * 😎 **Pronouns:** He/him         
 * 🎉 **Fun-Fact:** I ❤️ Shoes
-* 🚀 **How to reach me:**            <div align="center"><img align="right" width="100px" height="100px" src="https://raw.githubusercontent.com/vivekweb2013/vivekweb2013/main/developer.gif" border="2px solid black" style="border-radius:10px">
+* 🚀 **How to reach me:**            <div align="center"><img align="right" width="200px" height="200px" src="https://raw.githubusercontent.com/vivekweb2013/vivekweb2013/main/developer.gif" border="2px solid black" style="border-radius:10px">
 </div>
 
    - Twitter: [Cook_C0de](https://twitter.com/@Cook_C0de)
