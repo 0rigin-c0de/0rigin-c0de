@@ -3,11 +3,11 @@
 
  <div align="center"><img align="right" width="200px" height="200px" src="https://raw.githubusercontent.com/vivekweb2013/vivekweb2013/main/developer.gif" border="2px solid black" style="border-radius:10px">
 </div>
-<h3>
-* 💬 **Ask me about:** Frontend Web Development, Open Source.
-* 😎 **Pronouns:** He/him         
-* 🎉 **Fun-Fact:** I ❤️ Shoes
-* 🚀 **How to reach me:**           
+
+<h3> 💬 Ask me about: Frontend Web Development, Open Source.</h3>
+<h3> 😎 **Pronouns: He/him </h3>        
+ <h3> 🎉 **Fun-Fact:** I ❤️ Shoes </h3>
+<h3> 🚀 **How to reach me:      
    - Twitter: [Cook_C0de](https://twitter.com/@Cook_C0de)</h3>
 
 ## Tech Stack
