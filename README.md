@@ -4,12 +4,6 @@
  <div align="center"><img align="right" width="200px" height="200px" src="https://raw.githubusercontent.com/vivekweb2013/vivekweb2013/main/developer.gif" border="2px solid black" style="border-radius:10px">
 </div>
 
-<h3> 💬 Ask me about: Frontend Web Development, Open Source.</h3>
-<h3> 😎 **Pronouns: He/him </h3>        
- <h3> 🎉 **Fun-Fact:** I ❤️ Shoes </h3>
-<h3> 🚀 **How to reach me:      
-   - Twitter: [Cook_C0de](https://twitter.com/@Cook_C0de)</h3>
-
 ## Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
