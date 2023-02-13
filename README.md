@@ -2,8 +2,8 @@
 
 
 
-<!-- <div align="center"><img align="right" width="200px" height="200px" src="https://raw.githubusercontent.com/vivekweb2013/vivekweb2013/main/developer.gif" border="2px solid black" style="border-radius:10px">
-</div> -->
+<div align="center"><img align="right" width="200px" height="200px" src="https://raw.githubusercontent.com/vivekweb2013/vivekweb2013/main/developer.gif" border="2px solid black" style="border-radius:10px">
+</div>
 - #### **🙋‍♂️ I'm a self-taught developer from India**  
   
 
@@ -35,5 +35,5 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
-  ## Github Stats  
+ ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=0rigin-c0de&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
