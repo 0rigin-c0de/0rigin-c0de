@@ -36,6 +36,8 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
-  ![Shunnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=0rigin-c0de&count_private=true)
-  
+## Github Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0rigin-c0de&count_private=true"/>
+  <div/>
