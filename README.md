@@ -1,25 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=0000&center=true&width=499&height=51&lines=Hey+%F0%9F%91%8B+I'm+Sunil+;And+I'm+a+Frontend+Developer;I'm+Currently+learning++Javascript%2CReact)](https://git.io/typing-svg)
 
-
-
-<!-- <div align="center"><img align="right" width="200px" height="200px" src="https://raw.githubusercontent.com/vivekweb2013/vivekweb2013/main/developer.gif" border="2px solid black" style="border-radius:10px">
-</div> -->
+<div align="center"><img align="right" width="200px" height="200px" src="./hello.jpg" border="2px solid black" style="border-radius:10px">
+</div>
 
 - #### 🙋‍♂️ I'm a self-taught developer from India.
-  
 
-- #### 🔭 I’m currently focusing on React and Open Source.  
-  
+- #### 🔭 I’m currently focusing on React and Open Source.
 
-- #### 🌱 I’m currently learning JavaScript with React.  
-  
+- #### 🌱 I’m currently learning JavaScript with React.
 
-- #### ❓ Ask me about anything related to Frontend Development.  
-  
+- #### ❓ Ask me about anything related to Frontend Development.
 
-- #### ⚡ Fun fact: I use tabs over spaces  
-  
-
+- #### ⚡ Fun fact: I use tabs over spaces
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -35,7 +27,6 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0rigin-c0de&count_private=true"/>
