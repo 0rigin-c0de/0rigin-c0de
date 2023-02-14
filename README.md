@@ -12,9 +12,6 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-<div align="center"><img align="right" width="200px" height="200px" src="./hello.jpg" border="2px solid black" style="border-radius:20px">
-</div>
-
 - 🌐 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
