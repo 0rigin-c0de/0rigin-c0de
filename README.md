@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=0000&center=true&width=499&height=51&lines=Hey+%F0%9F%91%8B+I'm+Sunil+;And+I'm+a+Frontend+Developer;I'm+Currently+learning++Javascript%2CReact)](https://git.io/typing-svg)
 
-<div align="center"><img align="left" width="200px" height="200px" src="./hello.jpg" border="2px solid black" style="border-radius:10px background:transparent">
-</div>
-
 - #### 🙋‍♂️ I'm a self-taught developer from India.
 
 - #### 🔭 I’m currently focusing on React and Open Source.
@@ -14,6 +11,9 @@
 - #### ⚡ Fun fact: I use tabs over spaces
 
 ## 🛠 &nbsp;Tech Stack
+
+<div align="center"><img align="right" width="200px" height="200px" src="./hello.jpg" border="2px solid black" style="border-radius:20px">
+</div>
 
 - 🌐 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
