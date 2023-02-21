@@ -25,6 +25,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<div align="center" width="500px">
+<div align="center" width="500px" className=bg-blue500 >
   <img src="https://github-readme-stats.vercel.app/api?username=0rigin-c0de&count_private=true"/>
   <div/>
