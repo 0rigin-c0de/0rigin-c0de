@@ -27,4 +27,4 @@
   
 [![Shunnu's GitHub stats](https://github-readme-stats-j05el383g.vercel.app/api?username=0rigin-c0de&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/0rigin-c0de/0riginc0de/main/readme.md)
   
-  [![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-666&show_icons=true&theme=dark)](https://github.com/0rigin-c0de/0rigin-c0de/main/readme.md)
+  [![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0rigin-c0de&show_icons=true&theme=dark)](https://github.com/0rigin-c0de/0rigin-c0de/main/readme.md)
