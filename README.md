@@ -26,5 +26,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 [![Shunnu's GitHub stats](https://github-readme-stats-j05el383g.vercel.app/api?username=0rigin-c0de&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/0rigin-c0de/0riginc0de/main/readme.md)
+
+<a href="http://www.github.com/0rigin-c0de"><img src="https://github-readme-streak-stats.herokuapp.com/?user=0rigin-c0de&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   
-  [![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0rigin-c0de&show_icons=true&theme=dark)](https://github.com/0rigin-c0de/0rigin-c0de/main/readme.md)
+[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0rigin-c0de&show_icons=true&theme=dark)](https://github.com/0rigin-c0de/0rigin-c0de/main/readme.md)
