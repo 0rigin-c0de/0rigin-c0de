@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=0000&center=true&width=499&height=51&lines=Hey+%F0%9F%91%8B+I'm+Sunil+;And+I'm+a+Frontend+Developer;I'm+Currently+learning++Javascript%2CReact)](https://git.io/typing-svg)
 
- <div align="center"><img align="right" width="200px" height="200px" src="/image.png"  style="border-radius:10px">
-
 - #### 🙋‍♂️ I'm a self-taught developer from India.
 
 - #### 🔭 I’m currently focusing on React and Open Source.
@@ -11,6 +9,8 @@
 - #### ❓ Ask me about anything related to Frontend Development.
 
 - #### ⚡ Fun fact: I use tabs over spaces
+
+ <div align="center"><img align="right" width="200px" height="200px" src="/image.png"  style="border-radius:10px">
 
 ## 🛠 &nbsp;Tech Stack
 
