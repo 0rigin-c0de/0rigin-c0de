@@ -10,8 +10,6 @@
 
 - #### ⚡ Fun fact: I use tabs over spaces
 
- <div align="center"><img align="right" width="200px" height="200px" src="/image.png"  style="border-radius:10px">
-
 ## 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
