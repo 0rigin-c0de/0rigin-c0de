@@ -8,7 +8,7 @@
 
 - #### ❓ Ask me about anything related to Frontend Development.
 
-- #### ⚡ Fun fact: I use tabs over spaces
+- #### ⚡ Fun fact: I use tab over space
 
 ## 🛠 &nbsp;Tech Stack
 
