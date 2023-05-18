@@ -27,3 +27,10 @@
 
 <a href="http://www.github.com/0rigin-c0de"><img src="https://github-readme-streak-stats.herokuapp.com/?user=0rigin-c0de&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+## 📙 Recent Projects
+
+<p align="left">
+<a href="https://piedpiper01.netlify.app/" title="Pied-Piper Blogging Website"><img src="https://github.com/0rigin-c0de/0rigin-c0de/assets/106311923/1221dbf4-efd3-4918-94e3-a648536a7aab" alt="Pied-piper" width="250px" align="left" /></a>
+<a href="https://piedpiper01.netlify.app/" title="Pied-Piper"><strong>Pied-Piper Blogging Website</strong></a>
+<br/>Pied-Piper01 is a simple blog web application built with ReactJs and Firebase. It allows users to create, read, and comment on posts. The posts and images are stored in Firebase, making it easy to scale and manage the app. The app is also responsive, which means it works well on all types of screens.</p> <br/> <br/>
+<p align="left">
