@@ -2,9 +2,9 @@
 
 - #### 🙋‍♂️ I'm a self-taught developer from India.
 
-- #### 🔭 I’m currently focusing on React, and Open Source and also learning Backend Development.
+- #### 🔭 I’m currently focusing on React and Open Source, and exploring backend technologies.
 
-- #### 🌱 I’m currently learning JavaScript with React, and exploring backend technologies.
+- #### 🌱 I’m currently learning JavaScript with React, and Backend Development.
 
 - #### ❓ Ask me about anything related to Frontend Development.
 
