@@ -25,6 +25,11 @@
   ![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=nodejs)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  
+  
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0rigin-c0de&show_icons=true&locale=en" alt="0rigin-c0de" style="background-color: black;" />
+</p>
 
 <a href="http://www.github.com/0rigin-c0de"><img src="https://github-readme-streak-stats.herokuapp.com/?user=0rigin-c0de&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
