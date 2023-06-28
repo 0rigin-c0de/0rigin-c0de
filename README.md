@@ -50,8 +50,8 @@
 <p align="left">
 
 <p align="left">
-<a href="https://foodie01.netlify.app/" title="Foodie Restaurant Website Template"><img src="![image](https://github.com/0rigin-c0de/0rigin-c0de/assets/106311923/065a22e8-64a8-461e-bb44-51737f15ce7e)
-" alt="Foodie" width="250px" align="left" /></a>
+<a href="https://foodie01.netlify.app/" title="Foodie Restaurant Website Template"><img src="https://github.com/0rigin-c0de/0rigin-c0de/assets/106311923/59afdc54-23bb-4799-bc37-ff3d4c8dd70d" alt="Foodie" width="250px" align="left" /></a>
 <a target="blank" href="https://foodie01.netlify.app/" title="Foodie"><strong>Pied-Piper Blogging Website</strong></a>
 <br/>Foodie is a responsive and visually appealing restaurant website template built with React. It provides an interactive interface for showcasing delicious food items, ordering food, and learning more about the restaurant's services. This template is open source, allowing developers to customize and enhance it according to their needs.</p> <br/> <br/>
 <p align="left">
+
