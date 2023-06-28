@@ -48,3 +48,10 @@
 <a target="blank" href="https://piedpiper01.netlify.app/" title="Pied-Piper"><strong>Pied-Piper Blogging Website</strong></a>
 <br/>Pied-Piper01 is a simple blog web application built with ReactJs and Firebase. It allows users to create, read, and comment on posts. The posts and images are stored in Firebase, making it easy to scale and manage the app. The app is also responsive, which means it works well on all types of screens.</p> <br/> <br/>
 <p align="left">
+
+<p align="left">
+<a href="https://foodie01.netlify.app/" title="Foodie Restaurant Website Template"><img src="![image](https://github.com/0rigin-c0de/0rigin-c0de/assets/106311923/065a22e8-64a8-461e-bb44-51737f15ce7e)
+" alt="Foodie" width="250px" align="left" /></a>
+<a target="blank" href="https://foodie01.netlify.app/" title="Foodie"><strong>Pied-Piper Blogging Website</strong></a>
+<br/>Foodie is a responsive and visually appealing restaurant website template built with React. It provides an interactive interface for showcasing delicious food items, ordering food, and learning more about the restaurant's services. This template is open source, allowing developers to customize and enhance it according to their needs.</p> <br/> <br/>
+<p align="left">
