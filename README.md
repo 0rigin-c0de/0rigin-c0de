@@ -39,7 +39,7 @@
 ![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
 ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn)
 
-<a href="http://www.github.com/0rigin-c0de"><img src="https://github-readme-streak-stats.herokuapp.com/?user=0rigin-c0de&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=0rigin-c0de&theme=dark&border_radius=)](https://git.io/streak-stats)
 
 ## 📙 Recent Projects
 
@@ -62,5 +62,3 @@
 <a target="blank" href="https://shunnu.hashnode.dev/" title="Foodie"><strong>Personal Blog on Hashnode</strong></a>
 <br/>Welcome to my personal blog, where I share my thoughts and experiences on FrontEnd and Backend Development. Explore a collection of well-crafted art that delves into Web Development. Join me on this journey as we explore the fascinating world of Tech.</p> <br/> <br/>
 <p align="left">
-
-
