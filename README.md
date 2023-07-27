@@ -43,6 +43,8 @@
 ![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
 ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn)
 
+[![Shunnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=0rigin-c0de)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=0rigin-c0de)](https://git.io/streak-stats)
 
 ## 📙 Recent Projects
