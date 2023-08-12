@@ -66,5 +66,5 @@
 <p align="left">
 <a href="https://shunnu.hashnode.dev/" title="Personal Blog on Hashnode"><img src="https://github.com/0rigin-c0de/0rigin-c0de/assets/106311923/cc520624-4c4f-4330-b552-12bd89b9b155" alt="Foodie" width="250px" align="left" /></a>
 <a target="blank" href="https://shunnu.hashnode.dev/" title="Foodie"><strong>Personal Blog on Hashnode</strong></a>
-<br/>Welcome to my personal blog, where I share my thoughts and experiences on FrontEnd and Backend Development. Explore a collection of well-crafted art that delves into Web Development. Join me on this journey as we explore the fascinating world of Tech.</p> <br/> <br/>
+<br/>Welcome to my personal blog, where I share my thoughts and experiences on  FrontEnd and Backend Development. Explore a collection of well-crafted art that delves into Web Development. Join me on this journey as we explore the fascinating world of Tech.</p> <br/> <br/>
 <p align="left">
