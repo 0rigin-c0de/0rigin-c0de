@@ -43,7 +43,7 @@
 ![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
 ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn)
 
-[![Shunnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=0rigin-c0de&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Shunnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=0rigin-c0de&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=0rigin-c0de&theme=tokyonight)](https://git.io/streak-stats)
 
