@@ -12,7 +12,9 @@
 
 - #### ❓ Ask me about anything related to Frontend Development.
 
-- #### ⚡ Fun fact: I use tab over space
+- #### ⚡ Fun fact: I use tab over space.
+
+- #### 🌐 I'm pursuing my BCA at AB COLLEGE, under the esteemed guidance of Guru Nanak Dev university, currently in my exciting first semester. 
 
 ## 🛠 &nbsp;Tech Stack
 
