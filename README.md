@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=0rigin-c0de-username&label=PROFILE+VIEWS" alt="GitHub Profile Views">
 </p>
 
-- #### 🙋‍♂️ I'm a self-taught Frontend developer from India.
+- #### 🙋‍♂️ I'm a self-taught Full Stack developer from India.
 
 - #### 🔭 I’m currently focusing on React and Open Source, and exploring backend technologies.
 
@@ -14,7 +14,7 @@
 
 - #### ⚡ Fun fact: I use tab over space.
 
-- #### 🌐 I'm pursuing my BCA at AB COLLEGE, under the esteemed guidance of Guru Nanak Dev university, currently in my exciting first semester. 
+- #### 🌐 I'm pursuing my BCA at AB COLLEGE, under the esteemed guidance of Guru Nanak Dev University, currently in my exciting first semester. 
 
 ## 🛠 &nbsp;Tech Stack
 
