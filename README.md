@@ -14,7 +14,7 @@
 
 - #### ⚡ Fun fact: I use tab over space.
 
-- #### 🌐 I'm pursuing my BCA at AB COLLEGE, under the esteemed guidance of Guru Nanak Dev University, currently in my exciting first semester. 
+- #### 🌐 I'm pursuing my BCA under the Guru Nanak Dev University.
 
 ## 🛠 &nbsp;Tech Stack
 
