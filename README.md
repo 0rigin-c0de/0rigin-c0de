@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=0000&center=true&width=499&height=51&lines=Hey+%F0%9F%91%8B+I'm+Sunil+;And+I'm+a+Frontend+Developer;I'm+Currently+learning++Javascript%2CReact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Puppins&duration=3000&pause=200&center=true&vCenter=true&random=false&width=435&lines=Hey+%F0%9F%91%8B+I'm+Sunil+;I'm+Full+Stack+Developer;Currently+Focusing+on+MERN+Stack)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0rigin-c0de-username&label=PROFILE+VIEWS" alt="GitHub Profile Views">
