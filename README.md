@@ -6,9 +6,7 @@
 
 - #### 🙋‍♂️ I'm a self-taught Full Stack developer from India.
 
-- #### 🔭 I’m currently focusing on React and Open Source, and exploring backend technologies.
-
-- #### 🌱 I’m currently learning JavaScript with React, and Backend Development.
+- #### 🔭 I’m currently focusing on ReactJS, NodeJS and OpenSource.
 
 - #### ❓ Ask me about anything related to Frontend Development.
 
