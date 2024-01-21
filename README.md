@@ -12,7 +12,7 @@
 
 - #### ⚡ Fun fact: I use tab over space.
 
-- #### 🌐 I'm pursuing my BCA under the Guru Nanak Dev University.
+- #### 🌐 I'm pursuing my BCA 1st year under GURU NANAK DEV UNIVERSITY.
 
 ## 🛠 &nbsp;Tech Stack
 
