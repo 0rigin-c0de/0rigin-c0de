@@ -6,7 +6,7 @@
 
 - #### 🙋‍♂️ I'm a self-taught Full Stack developer from India.
 
-- #### 🔭 I’m currently focusing on ReactJS, NodeJS and OpenSource.
+- #### 🔭 I’m currently focusing on Nextjs, NodeJS and OpenSource.
 
 - #### ❓ Ask me about anything related to Frontend Development.
 
