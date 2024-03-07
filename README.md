@@ -10,7 +10,7 @@
 
 - #### ❓ Ask me about anything related to Frontend Development.
 
-- #### ⚡ Fun fact: I use tab over space.
+- #### ⚡ Fun fact: I'm in love.
 
 - #### 🌐 I'm pursuing my BCA 1st year under GURU NANAK DEV UNIVERSITY.
 
