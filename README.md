@@ -5,13 +5,10 @@
 </p>
 
 - #### 🙋‍♂️ I'm a self-taught Full Stack developer from India.
-
-- #### 🔭 I’m currently focusing on Nextjs, NodeJS and OpenSource.
-
+- #### 🌿 Learning TypeScript and Nectjs
+- #### 🔭 I’m currently focusing on NodeJS, and OpenSource.
 - #### ❓ Ask me about anything related to Frontend Development.
-
 - #### ⚡ Fun fact: I'm in love.
-
 - #### 🌐 I'm pursuing my BCA 1st year under GURU NANAK DEV UNIVERSITY.
 
 ## 🛠 &nbsp;Tech Stack
