@@ -5,7 +5,7 @@
 </p>
 
 - #### 🙋‍♂️ I'm a self-taught Full Stack developer from India.
-- #### 🌿 Learning TypeScript and Nectjs
+- #### 🌿 Learning TypeScript and Nextjs
 - #### 🔭 I’m currently focusing on NodeJS, and OpenSource.
 - #### ❓ Ask me about anything related to Frontend Development.
 - #### ⚡ Fun fact: I'm in love.
