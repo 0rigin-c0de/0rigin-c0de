@@ -4,45 +4,47 @@
   <img src="https://komarev.com/ghpvc/?username=0rigin-c0de-username&label=PROFILE+VIEWS" alt="GitHub Profile Views">
 </p>
 
-- #### 🙋‍♂️ I'm a self-taught Full Stack developer from India.
-- #### 🌿 Learning TypeScript and Nextjs
-- #### 🔭 I’m currently focusing on NodeJS, and OpenSource.
-- #### ❓ Ask me about anything related to Frontend Development.
-- #### ⚡ Fun fact: I'm in love.
-- #### 🌐 I'm pursuing my BCA 1st year under GURU NANAK DEV UNIVERSITY.
+- 🙋‍♂️ I'm a self-taught Full Stack developer from India.
+
+- 🌿 Learning TypeScript and Nextjs
+  
+- 🔭 I’m currently focusing on NodeJS, and OpenSource.
+  
+- ❓ Ask me about anything related to Frontend Development.
+  
+- ⚡ Fun fact: I'm in love.
+  
+- 🌐 I'm pursuing my BCA 1st year under GURU NANAK DEV UNIVERSITY.
 
 ## 🛠 &nbsp;Tech Stack
 
+- 💻 &nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+- 🌐 &nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+- 🛢 &nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoose)
+- ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🖥 &nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
-![Open Source](https://img.shields.io/badge/-Open%20Source-333333?style=flat&logo=open-source-initiative)
-![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-![Fetch API](https://img.shields.io/badge/-Fetch%20API-333333?style=flat&logo=javascript)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
-![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
-![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=0rigin-c0de&theme=tokyonight)](https://git.io/streak-stats)
-
 
 ![0rigin-c0de's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=0rigin-c0de&theme=tokyonight)
 
@@ -73,3 +75,12 @@
 <a target="blank" href="https://shunnu.hashnode.dev/" title="Foodie"><strong>Personal Blog on Hashnode</strong></a>
 <br/>Welcome to my blog, where I share my thoughts and experiences on  FrontEnd and Backend Development. Explore a collection of well-crafted art that delves into Web Development. Join me on this journey as we explore the fascinating world of Tech.</p> <br/> <br/>
 <p align="left">
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<p>
+<a href="https://www.techfolio1.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.techfolio1.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/shunnu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sunil Kumar-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/shunnu02/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shunnu02-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:shunnu807@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shunnu807@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+
