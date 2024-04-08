@@ -77,9 +77,9 @@
 <p align="left">
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p>
-<a href="https://www.techfolio1.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.techfolio1.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/shunnu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sunil Kumar-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/shunnu02/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shunnu02-blue?style=flat-square&logo=instagram"></a>
+<a href="https://techfolio1.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.techfolio1.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://linkedin.com/in/shunnu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sunil Kumar-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://instagram.com/shunnu02/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shunnu02-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:shunnu807@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shunnu807@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
