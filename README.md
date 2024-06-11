@@ -43,7 +43,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=0rigin-c0de&theme=tokyonight)](https://git.io/streak-stats)
 
-![0rigin-c0de's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=0rigin-c0de&theme=tokyonight)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=0rigin-c0de&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ## 📙 Recent Projects
 
