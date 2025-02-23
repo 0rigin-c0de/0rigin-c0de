@@ -11,7 +11,7 @@
   
 - ⚡ Fun fact: I'm in love.
   
-- 🌐 I'm pursuing my BCA 1st year under GURU NANAK DEV UNIVERSITY.
+- 🌐 I'm pursuing my BCA under GURU NANAK DEV UNIVERSITY.
 
 ## 🛠 &nbsp;Tech Stack
 
