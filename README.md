@@ -1,11 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Puppins&duration=3000&pause=200&center=true&vCenter=true&random=false&width=435&lines=Hey+%F0%9F%91%8B+I'm+Sunil+;I'm+Full+Stack+Developer;Currently+Focusing+on+MERN+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B+I'm+Sunil+Kumar;I'm+a+Full+Stack+Developer;Currently+diving+into+golang%2C+seeking+more+logic+and+challenges)](https://git.io/typing-svg)
 
+- 🙋‍♂️ I'm a self-taught developer from India.
 
-- 🙋‍♂️ I'm a self-taught Full Stack developer from India.
-
-- 🌿 Learning TypeScript and Nextjs
-  
-- 🔭 I’m currently focusing on NodeJS, and OpenSource.
+- 🌿 Learning Golang and Operating Systems
   
 - ❓ Ask me about anything related to Frontend Development.
   
