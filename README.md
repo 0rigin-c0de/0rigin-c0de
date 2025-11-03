@@ -46,14 +46,14 @@
 ## 📙 Recent Projects
 
 <p align="left">
-<a href="https://github.com/0rigin-c0de/PiperChat" title="PiperChat a Discord Clone"><img src="https://github.com/0rigin-c0de/0rigin-c0de/assets/106311923/5be7858e-752d-499e-b447-97bdfb72c815" alt="PiperChat" width="250px" align="left" /></a>
-<a target="blank" href="https://github.com/0rigin-c0de/PiperChat" title="PiperChat"><strong>PiperChat a Discord Clone</strong></a>
+<a href="https://github.com/0rigin-c0de/PiperChat01" title="PiperChat a Discord Clone"><img src="https://github.com/0rigin-c0de/0rigin-c0de/assets/106311923/5be7858e-752d-499e-b447-97bdfb72c815" alt="PiperChat" width="250px" align="left" /></a>
+<a target="blank" href="https://github.com/0rigin-c0de/PiperChat01" title="PiperChat"><strong>PiperChat a Discord Clone</strong></a>
 <br/>Piperchat is a streamlined messaging platform inspired by Discord. With user authentication, friend management, and server creation, Piperchat offers a familiar environment for connecting with friends. Users can send messages, create servers, add friends, and engage in conversations, all in a user-friendly interface.</p> <br/> <br/>
 <p align="left">
 
 <p align="left">
-<a href="https://piedpiper01.netlify.app/" title="Pied-Piper Blogging Website"><img src="https://github.com/0rigin-c0de/0rigin-c0de/assets/106311923/1221dbf4-efd3-4918-94e3-a648536a7aab" alt="Pied-piper" width="250px" align="left" /></a>
-<a target="blank" href="https://piedpiper01.netlify.app/" title="Pied-Piper"><strong>Pied-Piper Blogging Website</strong></a>
+<a href="https://github.com/0rigin-c0de/PiedPiper01" title="Pied-Piper Blogging Website"><img src="https://github.com/0rigin-c0de/0rigin-c0de/assets/106311923/1221dbf4-efd3-4918-94e3-a648536a7aab" alt="Pied-piper" width="250px" align="left" /></a>
+<a target="blank" href="https://github.com/0rigin-c0de/PiedPiper01" title="Pied-Piper"><strong>Pied-Piper Blogging Website</strong></a>
 <br/>Pied-Piper01 is a simple blog web application built with ReactJs and Firebase. It allows users to create, read, and comment on posts. The posts and images are stored in Firebase, making it easy to scale and manage the app. The app is also responsive, which means it works well on all types of screens.</p> <br/> <br/>
 <p align="left">
 
@@ -72,10 +72,10 @@
 <p align="left">
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p>
-<a href="https://techfolio1.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.techfolio1.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://linkedin.com/in/shunnu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sunil Kumar-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://instagram.com/shunnu02/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shunnu02-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:shunnu807@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shunnu807@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://sunilk02.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sunilk02.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://linkedin.com/in/shunnu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sunil Founsa-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://instagram.com/sunilk.02/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sunilk.02-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:skswork004@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-skswork004@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
