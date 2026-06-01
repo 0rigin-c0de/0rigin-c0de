@@ -1,81 +1,107 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B+I'm+Sunil+Kumar;I'm+a+Full+Stack+Developer;Currently+diving+into+golang%2C+seeking+more+logic+and+challenges)](https://git.io/typing-svg)
+<div align="center">
 
-- 🙋‍♂️ I'm a self-taught developer from India.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=500&center=true&vCenter=true&width=780&lines=Sunil+Kumar;Full+Stack+%26+Frontend+Developer;Learning+in+public+%C2%B7+React+%C2%B7+Node+%C2%B7+Go)](https://git.io/typing-svg)
 
-- 🌿 Learning Golang and Operating Systems
-  
-- ❓ Ask me about anything related to Frontend Development.
-  
-- ⚡ Fun fact: I'm in love.
-  
-- 🌐 I'm pursuing my BCA under GURU NANAK DEV UNIVERSITY.
+**India** · open to internships, collabs & freelance  
+BCA @ **Guru Nanak Dev University** · **2026** · CGPA **7.8**
 
-## 🛠 &nbsp;Tech Stack
+</div>
 
-- 💻 &nbsp;
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-- 🌐 &nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-- 🛢 &nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoose)
-- ⚙️ &nbsp;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🖥 &nbsp;
-![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+---
+
+<div align="center">
+
+### About
+
+I build **full-stack** and **frontend** products — real-time apps, voting systems, and **AI / RAG** tooling.  
+I share the journey on **[X](https://x.com/sunilbuilds)** and **[Threads](https://www.threads.net/@sunilk.02)**.  
+**JavaScript** is home base · sharpening **Go** and systems on the side.
+
+</div>
+
+---
+
+<div align="center">
+
+### Experience
+
+**Lead Frontend Intern** @ **CtrlB** · `Jun 2024 – Jan 2025`  
+Frontend architecture, ESLint, and **log visualization** UI — logs, metrics & traces.
+
+<br/>
+
+**Full-Stack Engineering Intern** @ **AnapanAI** · `May 2025 – Jul 2025`  
+**MCP** + Zapier automation · **Opportunities** & **Accounts** UI · AI agents on **Mastra**.
+
+</div>
+
+---
+
+<div align="center">
+
+### Skills
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+<br/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### Activity
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=0rigin-c0de&theme=tokyonight" alt="GitHub contribution streak" />
+</a>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=0rigin-c0de&theme=tokyonight)](https://git.io/streak-stats)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=0rigin-c0de&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+---
 
-## 📙 Recent Projects
+<div align="center">
 
-<p align="left">
-<a href="https://github.com/0rigin-c0de/PiperChat01" title="PiperChat a Discord Clone"><img src="https://github.com/0rigin-c0de/0rigin-c0de/assets/106311923/5be7858e-752d-499e-b447-97bdfb72c815" alt="PiperChat" width="250px" align="left" /></a>
-<a target="blank" href="https://github.com/0rigin-c0de/PiperChat01" title="PiperChat"><strong>PiperChat a Discord Clone</strong></a>
-<br/>Piperchat is a streamlined messaging platform inspired by Discord. With user authentication, friend management, and server creation, Piperchat offers a familiar environment for connecting with friends. Users can send messages, create servers, add friends, and engage in conversations, all in a user-friendly interface.</p> <br/> <br/>
-<p align="left">
+### Connect
 
-<p align="left">
-<a href="https://github.com/0rigin-c0de/PiedPiper01" title="Pied-Piper Blogging Website"><img src="https://github.com/0rigin-c0de/0rigin-c0de/assets/106311923/1221dbf4-efd3-4918-94e3-a648536a7aab" alt="Pied-piper" width="250px" align="left" /></a>
-<a target="blank" href="https://github.com/0rigin-c0de/PiedPiper01" title="Pied-Piper"><strong>Pied-Piper Blogging Website</strong></a>
-<br/>Pied-Piper01 is a simple blog web application built with ReactJs and Firebase. It allows users to create, read, and comment on posts. The posts and images are stored in Firebase, making it easy to scale and manage the app. The app is also responsive, which means it works well on all types of screens.</p> <br/> <br/>
-<p align="left">
+[![Portfolio](https://img.shields.io/badge/Portfolio-sunilk02.vercel.app-7aa2f7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sunilk02.vercel.app)
+[![X](https://img.shields.io/badge/X-@sunilbuilds-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sunilbuilds)
+[![Threads](https://img.shields.io/badge/Threads-@sunilk.02-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@sunilk.02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sunilk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunilk02/)
+[![Blog](https://img.shields.io/badge/Blog-Hashnode-7aa2f7?style=for-the-badge&logo=hashnode&logoColor=white)](https://shunnu.hashnode.dev/)
+[![Email](https://img.shields.io/badge/Email-skswork004@gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skswork004@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-personal-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sunilk.02/)
 
-<p align="left">
-<a href="https://foodie01.netlify.app/" title="Foodie Restaurant Website Template"><img src="https://github.com/0rigin-c0de/0rigin-c0de/assets/106311923/59afdc54-23bb-4799-bc37-ff3d4c8dd70d" alt="Foodie" width="250px" align="left" /></a>
-<a target="blank" href="https://foodie01.netlify.app/" title="Foodie"><strong>Foodie Restaurant Website Template</strong></a>
-<br/>Foodie is a responsive and visually appealing restaurant website template built with React. It provides an interactive interface for showcasing delicious food items, ordering food, and learning more about the restaurant's services. This template is open source, allowing developers to customize and enhance it according to their needs.</p> <br/> <br/>
-<p align="left">
-
-## 📝 My Blog
-
-<p align="left">
-<a href="https://shunnu.hashnode.dev/" title="Personal Blog on Hashnode"><img src="https://github.com/0rigin-c0de/0rigin-c0de/assets/106311923/cc520624-4c4f-4330-b552-12bd89b9b155" alt="Foodie" width="250px" align="left" /></a>
-<a target="blank" href="https://shunnu.hashnode.dev/" title="Foodie"><strong>Personal Blog on Hashnode</strong></a>
-<br/>Welcome to my blog, where I share my thoughts and experiences on  FrontEnd and Backend Development. Explore a collection of well-crafted art that delves into Web Development. Join me on this journey as we explore the fascinating world of Tech.</p> <br/> <br/>
-<p align="left">
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<p>
-<a href="https://sunilk02.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sunilk02.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://linkedin.com/in/shunnu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sunil Founsa-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://instagram.com/sunilk.02/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sunilk.02-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:skswork004@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-skswork004@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-
-
+</div>
