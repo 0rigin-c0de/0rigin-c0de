@@ -84,7 +84,7 @@ Frontend architecture, ESLint, and **log visualization** UI — logs, metrics & 
 ### Activity
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=0rigin-c0de&theme=tokyonight" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=chthonn&theme=tokyonight" alt="GitHub contribution streak" />
 </a>
 
 
