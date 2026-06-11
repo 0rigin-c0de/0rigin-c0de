@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=500&center=true&vCenter=true&width=780&lines=Sunil+Kumar;Full+Stack+%26+Frontend+Developer;Learning+in+public+%C2%B7+React+%C2%B7+Node+%C2%B7+Go)](https://git.io/typing-svg)
 
-**India** · open to internships, collabs & freelance  
+**India** · open to full-time roles, collabs & freelance  
 BCA @ **Guru Nanak Dev University** · **2026** · CGPA **7.8**
 
 </div>
